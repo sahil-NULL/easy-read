@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 330px;
+    height: 50px;
+    margin: 5px;
+    background-color: #5b0f7e;
+}
+
+.thank-you {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #e4ec14;
+}
